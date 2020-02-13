@@ -1,0 +1,24 @@
+{
+  "name": "koa2-note-fighting",
+  "version": "1.0.0",
+  "description": "sy is learning koa2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa2"
+  ],
+  "author": "sy",
+  "license": "ISC",
+  "dependencies": {
+    "busboy": "^0.3.1",
+    "ejs": "^3.0.1",
+    "koa": "^2.11.0",
+    "koa-convert": "^1.2.0",
+    "koa-jsonp": "^2.0.2",
+    "koa-static": "^5.0.0",
+    "koa-views": "^6.2.1",
+    "mysql": "^2.18.1"
+  }
+}
